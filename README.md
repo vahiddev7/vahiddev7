@@ -33,10 +33,10 @@ Open to collaboration and contributing to the developer community.
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [otoman](#) | Urban public transportation system | Django, REST, DOCKER, REDIS, WEBSOCKET |
-| [my yazd](#) | Intra-city service system | Django, Docker, DOCKER, REDIS |
-| [avl](#) | GPS tracking software | Django, Redis, DOCKER, WEBSOCKET |
-| [zaryazd](#) | Gold and coin buying and selling system | Django, Redis, DOCKER, WEBSOCKET, CELERY |
+| [otoman](https://otoman.yazd.ir) | Urban public transportation system | Django, REST, DOCKER, REDIS, WEBSOCKET |
+| [my yazd](https://my.yazd.ir) | Intra-city service system | Django, Docker, DOCKER, REDIS |
+| [avl](https://avl.yazd.ir) | GPS tracking software | Django, Redis, DOCKER, WEBSOCKET |
+| [zaryazd](https://zaryazd.egold.ir) | Gold and coin buying and selling system | Django, Redis, DOCKER, WEBSOCKET, CELERY |
 
 
 ---
