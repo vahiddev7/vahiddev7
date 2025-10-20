@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hi there 👋, I'm [Your Name]
+  Hi there 👋, I'm vahid zare
 </h1>
 <p align="center">
   Backend Web Developer | Django & Django REST | Docker | Redis
@@ -33,9 +33,11 @@ Open to collaboration and contributing to the developer community.
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project 1](#) | Short description | Django, REST |
-| [Project 2](#) | Short description | Django, Docker |
-| [Project 3](#) | Short description | Django, Redis |
+| [otoman](#) | Urban public transportation system | Django, REST, DOCKER, REDIS, WEBSOCKET |
+| [my yazd](#) | Intra-city service system | Django, Docker, DOCKER, REDIS |
+| [avl](#) | GPS tracking software | Django, Redis, DOCKER, WEBSOCKET |
+| [zaryazd](#) | Gold and coin buying and selling system | Django, Redis, DOCKER, WEBSOCKET, CELERY |
+
 
 ---
 
