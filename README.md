@@ -51,8 +51,8 @@ Open to collaboration and contributing to the developer community.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vahiddev7&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahiddev7&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vahiddev7&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vahiddev7&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
