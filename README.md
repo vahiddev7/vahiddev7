@@ -82,8 +82,16 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vahiddev7&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vahiddev7&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahiddev7&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahiddev7&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vahiddev7&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vahiddev7&theme=radical" alt="Stats" height="165" />
 </p>
 
 ---
